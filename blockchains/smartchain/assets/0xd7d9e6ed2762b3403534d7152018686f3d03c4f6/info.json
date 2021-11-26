@@ -1,0 +1,26 @@
+{
+    "name": "DigiArt Token",
+    "website": "https://digiart.city",
+    "source_code": "https://github.com/pixobits",
+    "description": "Digiart Token is BEP-20 asset for trading NFT, specially on DigiArt.city Marketplace. Also our holders can farm yield with different kinds of liqudity and staking mechanics or play2earn games on Binance Smart Chain.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pixobitsnft"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/pixobits"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/pixobits"
+        }
+    ],
+    "explorer": "https://bscscan.com/address/0xd7d9e6ed2762b3403534d7152018686f3d03c4f6",
+    "type": "BEP20",
+    "symbol": "DAT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xD7d9e6Ed2762B3403534d7152018686f3d03c4F6"
+}
